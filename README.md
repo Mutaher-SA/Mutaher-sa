@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Mutaher-SA/Mutaher-sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ### Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@
 - 📫 How to reach me: send me an E-mail
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
