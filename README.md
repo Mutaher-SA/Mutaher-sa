@@ -2,7 +2,7 @@
 
 
 
-### Here are some ideas to get you started:
+### HI, I'm ahmad
 
 ### - 🔭 I’m currently working on Hajj season
 ### - 🌱 I’m currently learning R 
